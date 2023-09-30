@@ -2,7 +2,8 @@ body {
     font-size: 15pt;
     background-color: beige;
     text-align: center;
+    margin-left: 3rem;
 }
 img{
-    widht:40%;
+    widht:30%;
 }
